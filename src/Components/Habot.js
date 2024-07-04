@@ -2,7 +2,7 @@ import React from "react";
 import BGimage from "../Assests/div.jpg";
 import CheckIMG from "../Assests/check.png";
 
-const Div3 = () => {
+const Habot = () => {
   return (
     <div className="flex justify-center items-center h-screen">
       <div className="max-w-[1316px] md:w-[80%] h-[623px] bg-customBlue flex justify-center items-center rounded-[5px]">
@@ -49,4 +49,4 @@ const Div3 = () => {
   );
 };
 
-export default Div3;
+export default Habot;

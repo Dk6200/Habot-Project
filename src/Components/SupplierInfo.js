@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function () {
+const SupplierInfo = () => {
   return (
     <div className="bg-customBGBlue flex justify-center items-center py-10 md:py-16">
       <div className="max-w-[1200px] mx-auto px-6 md:px-12">
@@ -21,4 +21,5 @@ export default function () {
       </div>
     </div>
   );
-}
+};
+export default SupplierInfo;
